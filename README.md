@@ -1,4 +1,3 @@
-# DZ_225A
 # Daniel Zhang
 
 This is my repo for BMS 225A - Data Science. My work is organized as follows:
